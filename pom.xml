@@ -8,7 +8,8 @@
   <name>test-log</name>
 
   <modules>
-    <module>spring-mvc-app</module>
-      <module>log-generator</module>
+    <module>spring-webapp-embedded-tomcat</module>
+    <module>log-generator</module>
+    <module>spring-webapp-bare</module>
   </modules>
 </project>
